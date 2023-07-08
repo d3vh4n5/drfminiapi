@@ -1,0 +1,2 @@
+La proxima le voy a poner a la aplicacionb principal "Mainapp" y las pequeñas
+sus respectivos nombres, ej "verdulería" o "ancorage"
